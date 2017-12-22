@@ -10,14 +10,14 @@ Highline has some beautifuly crafted articles. The story, design and digital ele
 * [The 21st century gold rush](http://highline.huffingtonpost.com/articles/en/the-21st-century-gold-rush-refugees/#/niger)
 * [America's most admired lawbreaker (15-09-2015)](http://highline.huffingtonpost.com/miracleindustry/americas-most-admired-lawbreaker/)
 
-The Guardian
+## The Guardian
 
 [Interactive Guardian pages](https://www.theguardian.com/interactive)
 
 * [Bussed out (21-12-2017)](https://www.theguardian.com/us-news/ng-interactive/2017/dec/20/bussed-out-america-moves-homeless-people-country-study)
 * [The world's biggest grave robbery: Asia’s disappearing WWII shipwrecks](https://www.theguardian.com/world/ng-interactive/2017/nov/03/worlds-biggest-grave-robbery-asias-disappearing-ww2-shipwrecks)
 
-The New York Times
+## The New York Times
 
 The New York Times has a lot of interactive articles, unfortunately they aren't to be found in one place. Most of them seem to follow a template. 
 
@@ -28,11 +28,16 @@ The New York Times has a lot of interactive articles, unfortunately they aren't 
 * [Olympic gymnast Simone Biles](https://www.nytimes.com/interactive/2016/08/05/sports/olympics-gymnast-simone-biles.html)
 * [This Is Your Life, Brought to You by Private Equity (24-12-2016)](https://www.nytimes.com/interactive/2016/08/02/business/dealbook/this-is-your-life-private-equity.html)
 
-* [Adobe Spark example](https://spark.adobe.com/gallery/gallery-editors-choice/example/journey/)
+## SBS.com.au
+
+* [The Boat](http://www.sbs.com.au/theboat/)
 * [sbs.com.au - A violent act](https://www.sbs.com.au/aviolentact/)
 
+## Other
 
+* [Adobe Spark example](https://spark.adobe.com/gallery/gallery-editors-choice/example/journey/)
 
-## Sites with examples: 
+## Example articles
 
 * https://sites.google.com/alaska.edu/digitalstorytelling/examples
+* https://medium.com/toilmoil/examples-of-visual-storytelling-websites-on-the-around-the-world-2fb07f2e058e
